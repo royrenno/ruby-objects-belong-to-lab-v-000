@@ -1,3 +1,3 @@
-class Auther
+class Author
   attr_accessor :title
 end
